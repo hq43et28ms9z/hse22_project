@@ -16,3 +16,28 @@
 
 ![image](https://user-images.githubusercontent.com/91056319/173620826-2ed8fdb7-430b-48ec-87f2-18d773a1efd3.png)
 
+
+
+**Organism Name** | **% Экзонов** | **% Покрытия** | **Суммарная длина** 
+  ------------ | ------------- | ------------- | -------------
+  Theileria annulata | 39.64 | 44.6 | 15341582
+  Theileria equi strain WA | 58.95 | 65.37 | 13722280
+  Theileria orientalis strain Shintoku | 48.5 | 58.09 | 12709127
+  Theileria parva strain Muguga | 62.08 | 72.64 | 9426183
+  Babesia microti strain RI | 36.3 | 40.3 | 13148172
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
