@@ -10,6 +10,10 @@
   Theileria parva strain Muguga | 34.0411 | 9 | 4061
   Babesia microti strain RI | 36.1847 | 6 | 3601
  
+ 
+Ниже представлены гистограммы значений zh-score для всех геномов (нормально парсящихся), полученных с помощью Zhunt.
+  
+
 ![image](https://user-images.githubusercontent.com/91056319/173620692-5871edee-72d7-4215-925c-711f03270f44.png)
 
 ![image](https://user-images.githubusercontent.com/91056319/173620715-19a65c2e-eff1-4dba-a5cc-1d9627e4932f.png)
