@@ -1,5 +1,7 @@
 # hse22_project
 
+Ссылка на colab: https://colab.research.google.com/gist/hq43et28ms9z/39096af849fb43d33e4824729da5189b/-full_examples_project_hse-ipynb.ipynb
+
   Информация об организмах
 
  **Organism Name** | **GC%** | **Scaffolds** | **CDS** 
@@ -14,11 +16,11 @@
 Ниже представлены гистограммы значений zh-score для всех геномов (нормально парсящихся), полученных с помощью Zhunt.
   
 
-![image](https://user-images.githubusercontent.com/91056319/173620692-5871edee-72d7-4215-925c-711f03270f44.png)
+  ![image](https://user-images.githubusercontent.com/91056319/173620692-5871edee-72d7-4215-925c-711f03270f44.png)
 
-![image](https://user-images.githubusercontent.com/91056319/173620715-19a65c2e-eff1-4dba-a5cc-1d9627e4932f.png)
+  ![image](https://user-images.githubusercontent.com/91056319/173620715-19a65c2e-eff1-4dba-a5cc-1d9627e4932f.png)
 
-![image](https://user-images.githubusercontent.com/91056319/173620826-2ed8fdb7-430b-48ec-87f2-18d773a1efd3.png)
+  ![image](https://user-images.githubusercontent.com/91056319/173620826-2ed8fdb7-430b-48ec-87f2-18d773a1efd3.png)
 
 
 
@@ -32,6 +34,9 @@
 
 
 
+  Информация об ортологах + паралогах
+  
+  ![Ортологи + паралоги](https://user-images.githubusercontent.com/91056319/173694791-77e9e761-6ca6-440f-9d2f-4e6164d495ed.JPG)
 
 
 
